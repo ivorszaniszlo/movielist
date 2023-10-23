@@ -1,4 +1,4 @@
-# Movie
+# Movielist
 
 ## Table of contents
 * [General info](#general-info)
@@ -35,7 +35,7 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 * Select the build folder and check it
 * [Check the documentation](https://surge.sh/)
 
-Deployed on movie-ivor.surge.sh](https://movie-ivor.surge.sh)
+Deployed on movielist-ivor.surge.sh](https://movielist-ivor.surge.sh)
 
 ## Created <a id="created"></a>
 
