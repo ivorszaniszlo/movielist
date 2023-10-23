@@ -20,7 +20,7 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 ## Technolgies <a id="technolgies"></a>
 
 * React - Front End Library
-
+* Firebase API
 
 ## Setup & Start <a id="setup"></a>
 
